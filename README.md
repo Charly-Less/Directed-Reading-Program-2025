@@ -1,2 +1,2 @@
 # Directed-Reading-Program-2025
-This repository contains the final presentation and report from a semester-long research project, supervised by PhD student Miguel Ayala at McGill University. The research goal was to explore the behaviour of a specific dynamical system by numerical simulations. The full Julia code implementation can be found in this [repository](https://github.com/mi-ayala/DRP-2025)
+This repository contains the final presentation and report from a semester-long research project, supervised by PhD student Miguel Ayala at McGill University. The research goal was to explore the behaviour of a specific dynamical system by numerical simulations. The full Julia code implementation can be found in this [repository](https://github.com/mi-ayala/DRP-2025).
